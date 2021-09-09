@@ -27,7 +27,9 @@ Function `expressions` are made of the following parts:
 
 ---
 
-## How do we declare a function in JS? There are two main ways to do this.
+## How do we declare a function in JS?
+
+There are two main ways to do this.
 
 By using the `function` keyword:
 
